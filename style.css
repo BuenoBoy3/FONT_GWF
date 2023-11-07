@@ -1,0 +1,84 @@
+hr {
+	border-width: 3px;
+}
+
+.title1 {
+	font-family: Pacifico-Regular;
+	font-size: x-large;
+	display: flex;
+	justify-content: center;
+}
+
+.title_text1 {
+	display: flex;
+	justify-content: center;
+	margin-bottom: 30px;
+}
+
+.Author_name {
+	font-family: Pacifico-Regular;
+	font-size: x-large;
+	display: flex;
+	justify-content: center;
+}
+
+.Author {
+	display: flex;
+	justify-content: center;
+}
+
+.text_1 {
+	font-family: Pacifico-Regular;
+	font-size: x-large;
+	display: flex;
+	justify-content: center;
+}
+
+.text1 {
+	margin-left: 250px;
+	display: flex;
+	justify-content: center;
+}
+
+.title2 {
+	font-family: Caveat-VariableFont_wght;
+	font-size: x-large;
+}
+
+.title_text2 {
+	font-size: x-large;
+	display: flex;
+	justify-content: justify;
+	margin-left: 20px;
+}
+
+.date {
+	font-family: Caveat_VariableFont_wght;
+	font-size: large;
+	display: flex;
+	justify-content: left;
+	color: darkgray;
+	margin-left: 50px;
+}
+
+.text2 {
+	font-size: xx-large;
+	display: flex;
+	justify-content: justify;
+	margin-left: 75px;
+	margin-right: 500px;
+}
+
+@font-face {
+	font-family: Pacifico-Regular;
+	src: url(fonts/Pacifico-Regular.ttf) format(truetype);
+	font-style: normal;
+	font-weight: normal;
+}
+
+@font-face {
+	font-family: Caveat-VariableFont_wght;
+	src: url(fonts/Caveat-VariableFont_wght.ttf);
+	font-style: normal;
+	font-weight: normal;
+}
